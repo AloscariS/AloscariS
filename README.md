@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**AloscariS/AloscariS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sebastiano Aloscari!  
 
-Here are some ideas to get you started:
+👨‍💻 **Deep Learning | Machine Learning | Transformers | PyTorch | Computer Vision | LLMs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Passionate about building intelligent systems and exploring the latest advancements in AI.  
+📚 **Never stop learning** – I thrive on curiosity and continuous growth.  
+
+💡 **What I do:**  
+- Design and implement state-of-the-art **Deep Learning** models.  
+- Develop solutions in **Computer Vision**, **Transformers**, and **Large Language Models (LLMs)** using **PyTorch**.  
+- Solve real-world problems with cutting-edge **AI and ML techniques**.  
+- Stay updated with the latest research to push boundaries in technology.  
+
+🌟 Open to collaboration and always on the lookout for exciting projects!  
+📄 **Need my CV?** Feel free to contact me privately.  
+
+---
+
+### 📢 **CONNECT WITH ME**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sebastiano-aloscari)  
