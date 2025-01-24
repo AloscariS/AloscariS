@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Sebastiano Aloscari!  
+## 👋 Hi, I'm Sebastiano Aloscari!  
 
 👨‍💻 **Deep Learning | Machine Learning | Transformers | PyTorch | Computer Vision | LLMs**
 
