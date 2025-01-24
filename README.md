@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Sebastiano Aloscari!  
-
 
 🚀 👋 Hi, I'm Sebastiano Aloscari!
 
