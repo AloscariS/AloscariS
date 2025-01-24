@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Sebastiano Aloscari!  
 
 
-🚀 👋 Hi, I'm Sebastiano Aloscari! AI researcher passionate about building AI systems and exploring the latest advancements in this field ✨
+🚀 👋 Hi, I'm Sebastiano Aloscari!
+
+I'm an AI researcher passionate about building AI systems and exploring the latest advancements in this field ✨
 
 👨‍💻 Some of my technical skills: **Deep Learning | Machine Learning | Transformers | PyTorch | Computer Vision | LLMs** 
 
