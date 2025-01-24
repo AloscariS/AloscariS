@@ -7,13 +7,10 @@ I'm an AI researcher passionate about building AI systems and exploring the late
 
 📚 **Never stop learning** – I thrive on curiosity and continuous growth.  
 
-💡 **What I do:**  
-- Design and implement state-of-the-art **Deep Learning** models.  
-- Develop solutions in **Computer Vision**, **Transformers**, and **Large Language Models (LLMs)** using **PyTorch**.  
-- Solve real-world problems with cutting-edge **AI and ML techniques**.  
-- Stay updated with the latest research to push boundaries in technology.  
+🌟 Open to collaboration and always on the lookout for exciting projects!
 
-🌟 Open to collaboration and always on the lookout for exciting projects!  
+---
+
 📄 **Need my CV?** Feel free to contact me privately.  
 
 ---
