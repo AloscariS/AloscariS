@@ -1,5 +1,5 @@
 
-## 🚀 👋 Hi, I'm Sebastiano Aloscari!
+## 🚀 👋 Hi, I'm Sebastiano!
 
 I'm an **AI researcher** passionate about building AI systems and exploring the latest advancements in this field ✨
 
