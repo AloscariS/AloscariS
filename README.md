@@ -12,9 +12,5 @@ I'm an **AI researcher** passionate about building AI systems and exploring the 
 
 ---
 
-📄 **Need my CV?** Feel free to contact me privately.  
-
----
-
 ### 📢 **CONNECT WITH ME**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sebastiano-aloscari)
