@@ -6,7 +6,7 @@ I'm an **AI researcher** passionate about building AI systems and exploring the 
 👨‍💻 Some of my technical skills:
 **Deep Learning | Machine Learning | PyTorch | Computer Vision | Transformers | MLLMs** 
 
-📚 **Never stop learning** – I thrive on curiosity and continuous growth.  
+📚 **Never stop learning!** I thrive on curiosity and continuous growth.  
 
 🌟 Open to collaborations and always looking for exciting projects!
 
