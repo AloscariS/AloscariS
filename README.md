@@ -1,12 +1,13 @@
 
-## 🚀 👋 Hi, I'm Sebastiano!
+## 👋 Hi, I'm Sebastiano!
 
 I'm an **AI researcher** passionate about building AI systems and exploring the latest advancements in this field ✨
 
-👨‍💻 Some of my technical skills:
+Some of my technical skills:
+
 **Deep Learning | Machine Learning | PyTorch | Computer Vision | Transformers | MLLMs** 
 
-📚 **Never stop learning!** I thrive on curiosity and continuous growth.  
+Never stop learning!
 
 🌟 Open to collaborations and always looking for exciting projects!
 
