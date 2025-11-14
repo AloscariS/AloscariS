@@ -1,16 +1,13 @@
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Sebastiano
+<br>🎓 I graduated in Computer Engineering @ [University of Modena and Reggio Emilia](https://www.unimore.it/en) with a focus on AI <br>🔬 I currently work @ [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) on research focused on MLLMs
 
-## 👋 Hi, I'm Sebastiano!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloscariS&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
-I'm an **AI researcher** passionate about building AI systems and exploring the latest advancements in this field ✨
 
-Some of my technical skills:
-**Deep Learning | Machine Learning | PyTorch | Computer Vision | Transformers | MLLMs** 
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
-Never stop learning!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastiano-aloscari) 
 
-🌟 Open to collaborations and always looking for exciting projects!
-
----
-
-### 📢 **CONNECT WITH ME**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sebastiano-aloscari)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
