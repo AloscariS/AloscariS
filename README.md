@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Sebastiano
-<br>🎓 I graduated in Computer Engineering @ [University of Modena and Reggio Emilia](https://www.unimore.it/en) with a focus on AI <br>🔬 I currently work @ [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) on research focused on MLLMs
+<br>🎓 I graduated in Computer Engineering @ [University of Modena and Reggio Emilia](https://www.unimore.it/en) with a focus on AI <br>🔬 I currently work @ [Politecnico di Torino](https://www.polito.it/) as a AI research fellow
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloscariS&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
